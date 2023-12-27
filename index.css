@@ -18,7 +18,7 @@ body {
   padding: 5rem 1rem;
   font-family: Figtree;
 }
-@media (min-width: 768px) {
+@media (min-width: 760px) {
   body {
     padding: 0;
     display: flex;
